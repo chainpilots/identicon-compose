@@ -1,4 +1,4 @@
-package com.chainpilots.jazzicon.component
+package com.chainpilots.identicon.component
 
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.layout.*
@@ -13,7 +13,7 @@ import androidx.compose.ui.graphics.drawscope.rotate
 import androidx.compose.ui.graphics.drawscope.translate
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.chainpilots.jazzicon.JazziconGenerator
+import com.chainpilots.identicon.JazziconGenerator
 
 
 @Composable

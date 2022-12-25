@@ -1,10 +1,10 @@
-package com.chainpilots.jazzicon
+package com.chainpilots.identicon
 
 import android.util.Log
-import com.chainpilots.jazzicon.model.HSL
-import com.chainpilots.jazzicon.model.Shape
-import com.chainpilots.jazzicon.utils.MersenneTwister
-import com.chainpilots.jazzicon.utils.colors
+import com.chainpilots.identicon.model.HSL
+import com.chainpilots.identicon.model.Shape
+import com.chainpilots.identicon.utils.MersenneTwister
+import com.chainpilots.identicon.utils.colors
 import kotlin.math.*
 
 class JazziconGenerator{

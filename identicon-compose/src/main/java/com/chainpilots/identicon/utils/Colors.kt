@@ -1,6 +1,6 @@
-package com.chainpilots.jazzicon.utils
+package com.chainpilots.identicon.utils
 
-import com.chainpilots.jazzicon.model.HSL
+import com.chainpilots.identicon.model.HSL
 
 val colors = listOf(
     // teal

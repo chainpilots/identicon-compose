@@ -1,4 +1,4 @@
-package com.chainpilots.jazzicon.model
+package com.chainpilots.identicon.model
 
 data class Shape(
     val x: Float,

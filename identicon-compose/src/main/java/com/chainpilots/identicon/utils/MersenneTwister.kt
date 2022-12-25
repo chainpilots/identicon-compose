@@ -1,4 +1,4 @@
-package com.chainpilots.jazzicon.utils
+package com.chainpilots.identicon.utils
 
 class MersenneTwister(
     seed: UInt
