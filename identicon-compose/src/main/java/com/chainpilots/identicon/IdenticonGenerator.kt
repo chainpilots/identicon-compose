@@ -7,7 +7,7 @@ import com.chainpilots.identicon.utils.MersenneTwister
 import com.chainpilots.identicon.utils.colors
 import kotlin.math.*
 
-class JazziconGenerator{
+class IdenticonGenerator{
     private var remainingColors = mutableListOf<HSL>()
 
     fun generate(

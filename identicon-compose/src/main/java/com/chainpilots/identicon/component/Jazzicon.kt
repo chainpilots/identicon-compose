@@ -13,7 +13,7 @@ import androidx.compose.ui.graphics.drawscope.rotate
 import androidx.compose.ui.graphics.drawscope.translate
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.chainpilots.identicon.JazziconGenerator
+import com.chainpilots.identicon.IdenticonGenerator
 
 
 @Composable
@@ -22,7 +22,7 @@ fun Jazzicon(
     diameter: Int = 100,
     address: String = "0xffffffff"
 ) {
-    val shapes = JazziconGenerator()
+    val shapes = IdenticonGenerator()
         .generate(
             address = address,
             diameter = diameter,
